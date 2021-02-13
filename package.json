@@ -5,9 +5,9 @@
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "^2.1.1"
+    "react-scripts": "^4.0.2"
   },
-  "homepage": "https://taniarascia.github.io/react-tutorial",
+  "homepage": "https://mh-github.github.io/react-tutorial",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
